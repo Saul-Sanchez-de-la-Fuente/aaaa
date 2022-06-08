@@ -1,7 +1,7 @@
 ## Series circuits
 The following schematic diagram shows a series circuit:
 
-[Link](https://drive.google.com/file/d/1Qq2N1ylffqde6uW2F9GwUSPDbmNjuPOh/view?usp=sharing).
+![Link](https://github.com/Saul-Sanchez-de-la-Fuente/aaaa/blob/main/Series%20circuits/img/img1.png)
 
 The preceding diagram shows a series circuit where the current only has
 one path from the source to the return. In this circuit, the load consists of
